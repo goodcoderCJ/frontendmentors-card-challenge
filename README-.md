@@ -9,7 +9,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Screenshot](#screenshot)
 - [My process](#my-process)
 - [Built with](#built-with)
-- [Author](#designer)
+- [Designer](#designer)
 - [Acknowledgments](#acknowledgments)
 
 
